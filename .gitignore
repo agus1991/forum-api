@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+.idea
+.env
+forum-api-app-server.ppk
+coverage
