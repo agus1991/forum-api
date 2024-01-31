@@ -3,4 +3,5 @@ package-lock.json
 .idea
 .env
 forum-api-app-server.ppk
+*.pem
 coverage
